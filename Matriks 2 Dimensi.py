@@ -10,7 +10,7 @@ Original file is located at
 
 
 #I GEDE OKTA ANDIKA YASA
-#2401010745
+#***1010***
 #INFORMATIKA
 #KELAS L
 
